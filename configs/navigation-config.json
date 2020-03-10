@@ -1,0 +1,8 @@
+{
+  "navigationRoutes": [
+    { "name": "Home", "slug": "home", "type": "page" },
+    { "name": "Rules", "slug": "rules", "type": "page" },
+    { "name": "News", "slug": "news", "type": "blog" },
+    { "name": "Donate", "slug": "donate", "type": "page" }
+  ]
+}
