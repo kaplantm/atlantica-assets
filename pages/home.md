@@ -1,7 +1,7 @@
 <!-- This is a comment. It will not show up on the page -->
 
 <!-- Banner is a known class in own codebase. Use it to add an image banner above content -->
-<img className="banner" src="https://static.planetminecraft.com/files/resource_media/screenshot/1747/2017-08-24-20-58-11-1511320688.png" />
+<img className="banner" src="https://raw.githubusercontent.com/kaplantm/atlantica-assets/master/images/banner.jpg" />
 
 # Welcome to RAD Atlantica!
 
