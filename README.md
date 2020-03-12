@@ -51,13 +51,13 @@ For example:
       "file": "we-moved",
       "published": "3/10/2020",
       "title": "RAD1 Server Reset",
-      "type": "warning"
+      "type": "notice"
     }
   ]
 }
 
 ```
 
-This will setup the news page to show one post. The title of the post is RAD1 Server Reset. It will show that it was published 3/10/2020. It will be styled like a warning. (Options for type are: "normal", "warning" and "alert". If left blank, it will be a "normal" post.) This post will display the contents of the `we-moved.md` file in the `pages/news/` directory.
+This will setup the news page to show one post. The title of the post is RAD1 Server Reset. It will show that it was published 3/10/2020. It will be styled like a notice. (Options for type are: "normal", "notice" and "alert". If left blank, it will be a "normal" post.) This post will display the contents of the `we-moved.md` file in the `pages/news/` directory.
 
 News items will appear in the order they are in the list, with the first item in the list being the top most post on the news page.

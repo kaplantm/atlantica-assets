@@ -1,4 +1,15 @@
+<!-- This is a comment. It will not show up on the page -->
+
+<!-- Banner is a known class in own codebase. Use it to add an image banner above content -->
+<img className="banner" src="https://static.planetminecraft.com/files/resource_media/screenshot/1747/2017-08-24-20-58-11-1511320688.png" />
+
 # Welcome to RAD Atlantica!
+
+Check us our on <a href="https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons/" target="_blank">CurseForge for more info</a>
+
+<a href="https://discord.gg/wMpsj8y" target="_blank">We have a discord!</a>
+
+<br>
 
 ## Server Info
 
@@ -28,11 +39,14 @@ I am using HTML links here instead of markdown so I can use  target="_blank" to 
 
 (no need to specify ports)
 
-|                             |                                                                                  |
-| --------------------------- | -------------------------------------------------------------------------------- |
-| RAD1.MC.Atlantica.US        | Roguelike Adventures and Dungeons v1.36                                          |
-| RAD2.MC.Atlantica.US        | Roguelike Adventures and Dungeons v1.36                                          |
-| RAD3.MC.Atlantica.US        | Roguelike Adventures and Dungeons v1.36 (world from Delightful-RAD.DDNSFree.Com) |
-| SevTechAges.MC.Atlantica.US | SevTech: Ages v3.1.2-hotfix.1                                                    |
-| ModLite.MC.Atlantica.US     | Atlantica-Lite v4                                                                |
-| MC.Atlantica.US             | Vanilla Minecraft v1.14.4                                                        |
+**RAD1.MC.Atlantica.US** - Roguelike Adventures and Dungeons v1.36
+
+**RAD2.MC.Atlantica.US** - Roguelike Adventures and Dungeons v1.36
+
+**RAD3.MC.Atlantica.US** - Roguelike Adventures and Dungeons v1.36 (world from Delightful-RAD.DDNSFree.Com)
+
+**SevTechAges.MC.Atlantica.US** - SevTech: Ages v3.1.2-hotfix.1
+
+**ModLite.MC.Atlantica.US** - Atlantica-Lite v4
+
+**MC.Atlantica.US** - Vanilla Minecraft v1.14.4

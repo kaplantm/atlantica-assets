@@ -3,13 +3,13 @@
     {
       "file": "we-moved",
       "published": "3/10/2020",
-      "title": "RAD1 Server Reset",
-      "type": "warning"
+      "title": "We Moved",
+      "type": "notice"
     },
     {
       "file": "rad-2-live",
       "published": "3/2/2020",
-      "title": "RAD 2 is now Live"
+      "title": " Rad 3 is live!"
     },
     {
       "file": "server-reset",
